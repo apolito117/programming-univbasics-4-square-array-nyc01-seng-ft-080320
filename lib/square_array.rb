@@ -7,5 +7,5 @@ square_array(numbers)
 new_numbers = [9,10,16,25]
 
 square_array(new_numbers)
-  => [81,100,256,625]
+
 end
