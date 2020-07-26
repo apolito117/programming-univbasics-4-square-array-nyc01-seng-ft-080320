@@ -1,3 +1,3 @@
 def square_array(array)
-  array.map{|e| e*2 }
+  [1,2,3].map{|e| e*3 }
 end
