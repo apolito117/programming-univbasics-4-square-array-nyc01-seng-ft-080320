@@ -1,5 +1,3 @@
 def square_array(array)
-
-    self.map! {|num| num ** 2}
-
+  [1,2,3].map{|e| e*2 }
 end
